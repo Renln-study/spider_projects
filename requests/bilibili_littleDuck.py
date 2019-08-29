@@ -1,4 +1,5 @@
 import requests
+import  time
 #first  request--url get——response
 
 def get_one_page(url):
@@ -7,6 +8,7 @@ def get_one_page(url):
                         'AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36'
     }
     response = requests.get(url, headers=headers)
+    print(response)
     if response.status_code == 200:
         return response.text
     return None
@@ -15,8 +17,10 @@ def get_one_page(url):
 
 
 def main():
-    url = 'https://www.bilibili.com/video/av34406087?from=search&seid=14878856907635911356'
+    url = 'https://www.bilibili.com/video/av34406087?from=search&seid=2848483686653906200'
+    time.sleep(2)
     html = get_one_page(url)
+    print(html)
 
 
 if __name__ == '__main__':
