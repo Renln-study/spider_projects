@@ -10,8 +10,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-
-
 #first  request--url get——response
 COMMENT_FILE_PATH = 'wawa_comments'
 def get_one_page(page):
@@ -78,7 +76,7 @@ def main():
         statu_code = get_one_page(i)
         print("当前是第"+str(i)+"页，当前页操作响应："+statu_code)
         # 模拟用户浏览，设置一个爬虫间隔，防止ip被封
-        time.sleep(random.random() * 5)
+        time.sleep(2)
 
     wl = cut_word()
     createCloud(wl)
