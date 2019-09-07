@@ -2,16 +2,13 @@ import requests
 import  time
 import  json
 import  os
-import random
 import jieba
 from wordcloud import WordCloud
 import  PIL .Image as  Image
 import numpy as np
 import matplotlib.pyplot as plt
 
-COMMENT_FILE_PATH = 'comments'
-
-
+COMMENT_FILE_PATH = 'J:\JD_comments_jpg\comments.txt'
 def getCurrentCommodity(url):
     headers = {
         'Referer': url,
@@ -25,15 +22,11 @@ def getCurrentCommodity(url):
         return  None
 
 def DataToJson(data_text):
-
     data = data_text[26:-2]
     jsontext = json.loads(data)
     comments_json = jsontext['comments']
-    # print(comments_json)
     for single_comments in comments_json:
         comments = single_comments['content']
-        # 判断是否存在追加评价
-        # 判断某个属性是否存在json数据中 使用if + 属性 +json数据
         if 'afterUserComment' in single_comments:
             AfterComments = single_comments['afterUserComment']
             hAfterUserComment = AfterComments['hAfterUserComment']
@@ -64,7 +57,7 @@ def createCloud(wl):
     plt.axis("off")
     plt.figure()
     plt.show()
-    wc.to_file('wawa_result.jpg')
+    wc.to_file('J:\comments_result.jpg')
 
 def main():
     # choose = input("你是否想要查询京东商品的评论："+"\n")
@@ -72,13 +65,15 @@ def main():
     if choose == 'yes':
         # commodityId = input("请输入您想要查询的商品id:"+"\n")
         commodityId = 1555771170
-        # print("商品id："+str(commodityId))
-        url = 'https://sclub.jd.com/comment/productPageComments.action?callback=fetchJSON_' \
-              'comment98vv6687&productId=%s&score=0&sortType=5&page=0&pageSize=10&isShadowSku=0&fold=1' %commodityId
-        html = getCurrentCommodity(url)
-        DataToJson(html)
-
-
+        if os.path.exists(COMMENT_FILE_PATH):
+            os.remove(COMMENT_FILE_PATH)
+        for i in range(10):
+            time.sleep(3)
+            url = 'https://sclub.jd.com/comment/productPageComments.action?callback=fetchJSON_' \
+                  'comment98vv6687&productId='+str(commodityId)+'&score=0&sortType=5&page=%s&pageSize=10&isShadowSku=0&fold=1' % i
+            html = getCurrentCommodity(url)
+            DataToJson(html)
+            print("获取第"+str(i)+"页评论成功！")
     else:
         exit("退出程序")
 

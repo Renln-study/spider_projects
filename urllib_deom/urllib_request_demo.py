@@ -1,11 +1,11 @@
 import  requests
 import  re
-# r = requests.get("https://cuiqingcai.com/5517.html")
-# print(type(r))
-# print(r.status_code)
-# print(type(r.text))
-# print(r.text)
-# print(r.cookies)
+r = requests.get("https://cuiqingcai.com/5517.html")
+print(type(r))
+print(r.status_code)
+print(type(r.text))
+print(r.text)
+print(r.cookies)
 
 data = {
 	'name':"22",
