@@ -7,8 +7,12 @@ from wordcloud import WordCloud
 import  PIL .Image as  Image
 import numpy as np
 import matplotlib.pyplot as plt
+import datetime
 
-COMMENT_FILE_PATH = 'J:\JD_comments_jpg\comments.txt'
+#获取当前时间：
+nowTime = time.strftime('%m%d',time.localtime(time.time()))
+
+COMMENT_FILE_PATH = 'J:\JD_comments_jpg\comments'+nowTime+'.txt'
 def getCurrentCommodity(url):
     headers = {
         'Referer': url,
@@ -57,14 +61,12 @@ def createCloud(wl):
     plt.axis("off")
     plt.figure()
     plt.show()
-    wc.to_file('J:\comments_result.jpg')
+    wc.to_file('J:\JD_comments_jpg\comments_result'+nowTime+'.jpg')
 
 def main():
-    # choose = input("你是否想要查询京东商品的评论："+"\n")
-    choose = 'yes'
+    choose = input("你是否想要查询京东商品的评论："+"\n")
     if choose == 'yes':
-        # commodityId = input("请输入您想要查询的商品id:"+"\n")
-        commodityId = 1555771170
+        commodityId = input("请输入您想要查询的商品id:"+"\n")
         if os.path.exists(COMMENT_FILE_PATH):
             os.remove(COMMENT_FILE_PATH)
         for i in range(10):
