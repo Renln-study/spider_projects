@@ -72,16 +72,8 @@ def write_comments(comments):
          f.write(comments+'\n')
 
 
-# def read_file_list(inputFile, encoding):
-#     results = []
-#     fin = open(inputFile, 'r', encoding=encoding)
-#     for eachLiine in fin.readlines():
-#         line = eachLiine.strip().replace('\ufeff', '')
-#         results.append(line)
-#     fin.close()
-#     return results
 
-def createCloud(wl):
+def createCloud():
     # wc_mask = np.array(Image.open('J:\word_background\demo.jpg'))
     # 数据清洗词列表
     # 数据清洗词列表
