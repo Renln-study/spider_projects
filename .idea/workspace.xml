@@ -2,15 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="850ea5cf-7ec4-4d79-96ad-b500d5635d65" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/requests/Text_dataCleaning.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requests/data_cleaning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/security_codes/demoCode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/security_codes/images/Code.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/security_codes/images/code.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/security_codes/images/demo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/security_codes/images/image.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/spider_maoyan.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/spider_maoyan.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requests/JD_comments_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/requests/JD_comments/JD_comments_spider.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requests/JD_wawa.py" beforeDir="false" afterPath="$PROJECT_DIR$/requests/JD_comments/JD_wawa.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requests/bilibili_littleDuck.py" beforeDir="false" afterPath="$PROJECT_DIR$/requests/others/bilibili_littleDuck.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requests/maoyan_movies.py" beforeDir="false" afterPath="$PROJECT_DIR$/requests/others/maoyan_movies.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requests/spider_douban/bullets_movies.py" beforeDir="false" afterPath="$PROJECT_DIR$/requests/spider_douban/bullets_movies.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requests/JD_comments/JD_comments_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/requestsDemo/JD_comments/JD_comments_spider.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requests/JD_comments/JD_wawa.py" beforeDir="false" afterPath="$PROJECT_DIR$/requestsDemo/JD_comments/JD_wawa.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requests/Text_dataCleaning.py" beforeDir="false" afterPath="$PROJECT_DIR$/requestsDemo/Text_dataCleaning.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requests/bulletsScreen/forDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/requestsDemo/bulletsScreen/forDemo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requests/bulletsScreen/youku_ bullet_screen.py" beforeDir="false" afterPath="$PROJECT_DIR$/requestsDemo/bulletsScreen/youku_ bullet_screen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requests/bulletsScreen/youku_fenji_iid.py" beforeDir="false" afterPath="$PROJECT_DIR$/requestsDemo/bulletsScreen/youku_fenji_iid.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requests/data_cleaning.py" beforeDir="false" afterPath="$PROJECT_DIR$/requestsDemo/data_cleaning.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requests/match.py" beforeDir="false" afterPath="$PROJECT_DIR$/requestsDemo/match.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requests/moni_sina/demoCookie.py" beforeDir="false" afterPath="$PROJECT_DIR$/requestsDemo/moni_sina/demoCookie.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requests/others/bilibili_littleDuck.py" beforeDir="false" afterPath="$PROJECT_DIR$/requestsDemo/others/bilibili_littleDuck.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requests/others/maoyan_movies.py" beforeDir="false" afterPath="$PROJECT_DIR$/requestsDemo/others/maoyan_movies.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requests/spider_douban/bullets_movies.py" beforeDir="false" afterPath="$PROJECT_DIR$/requestsDemo/spider_douban/bullets_movies.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requests/time_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/requestsDemo/time_demo.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,30 +32,68 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="spider_projects" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/requests/data_cleaning.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/security_codes/demoCode.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+            <state relative-caret-position="185">
+              <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
               <folding>
-                <element signature="e#33#64#0" expanded="true" />
-                <element signature="e#870#884#0" />
-                <element signature="e#1410#1456#0" />
-                <element signature="e#1978#2007#0" />
+                <element signature="e#32#53#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/requests/Text_dataCleaning.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/requestsDemo/JD_comments/JD_comments_spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="33">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="-726">
+              <caret line="14" column="64" selection-start-line="14" selection-start-column="64" selection-end-line="14" selection-end-column="64" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/requestsDemo/time_demo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/security_codes/images/Code.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/security_codes/images/image.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/security_codes/images/code3.jpg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -95,7 +147,6 @@
         <option value="$PROJECT_DIR$/urllib_deomo/spdier_python.py" />
         <option value="$PROJECT_DIR$/urllib_deomo/spdier_demo.py" />
         <option value="$PROJECT_DIR$/requests/JD_Wawa.py" />
-        <option value="$PROJECT_DIR$/urllib_deom/urllib_request_demo.py" />
         <option value="$PROJECT_DIR$/requests/result.txt" />
         <option value="$PROJECT_DIR$/requests/wawa_comments.txt" />
         <option value="$PROJECT_DIR$/requests/demo.py" />
@@ -104,7 +155,6 @@
         <option value="$PROJECT_DIR$/requests/time_demo.py" />
         <option value="$PROJECT_DIR$/requests/youku_ bullet_screen.py" />
         <option value="$PROJECT_DIR$/requests/bulletsScreen/youku_fenji_vid.py" />
-        <option value="$PROJECT_DIR$/requests/bulletsScreen/youku_fenji_iid.py" />
         <option value="$PROJECT_DIR$/requests/bulletsScreen/forDemo.py" />
         <option value="$PROJECT_DIR$/requests/bulletsScreen/Iid.txt" />
         <option value="$PROJECT_DIR$/requests/JD_comments_spider.py" />
@@ -114,6 +164,13 @@
         <option value="$PROJECT_DIR$/requests/spider_douban/bullets_movies.py" />
         <option value="$PROJECT_DIR$/requests/data_cleaning.py" />
         <option value="$PROJECT_DIR$/requests/Text_dataCleaning.py" />
+        <option value="$PROJECT_DIR$/requests/bulletsScreen/youku_fenji_iid.py" />
+        <option value="$PROJECT_DIR$/requestsDemo/others/bilibili_littleDuck.py" />
+        <option value="$PROJECT_DIR$/requestsDemo/bulletsScreen/youku_fenji_iid.py" />
+        <option value="$PROJECT_DIR$/urllib_deom/urllib_request_demo.py" />
+        <option value="$PROJECT_DIR$/requestsDemo/bulletsScreen/youku_ bullet_screen.py" />
+        <option value="$PROJECT_DIR$/requestsDemo/time_demo.py" />
+        <option value="$PROJECT_DIR$/security_codes/demoCode.py" />
       </list>
     </option>
   </component>
@@ -136,13 +193,36 @@
         <subPane>
           <expand>
             <path>
-              <item name="spider_maoyan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spider_maoyan" type="462c0819:PsiDirectoryNode" />
+              <item name="spider_projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spider_projects" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="spider_maoyan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spider_maoyan" type="462c0819:PsiDirectoryNode" />
-              <item name="requests" type="462c0819:PsiDirectoryNode" />
+              <item name="spider_projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spider_projects" type="462c0819:PsiDirectoryNode" />
+              <item name="requestsDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spider_projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spider_projects" type="462c0819:PsiDirectoryNode" />
+              <item name="requestsDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="JD_comments" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spider_projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spider_projects" type="462c0819:PsiDirectoryNode" />
+              <item name="requestsDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="others" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spider_projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spider_projects" type="462c0819:PsiDirectoryNode" />
+              <item name="security_codes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spider_projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spider_projects" type="462c0819:PsiDirectoryNode" />
+              <item name="security_codes" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -153,16 +233,21 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spider_demo01" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/security_codes/images" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="sshConsole" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="J:\spider_projects\spider_projects\security_codes\imgaes" />
       <recent name="J:\spider_projects\spider_maoyan\requests\others" />
       <recent name="J:\spider_projects\spider_maoyan\requests\JD_comments" />
       <recent name="J:\spider_projects\spider_maoyan\requests\bulletsScreen" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="J:\spider_projects\spider_projects\security_codes\images" />
+      <recent name="J:\spider_projects\spider_projects\security_codes" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -177,52 +262,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Text_dataCleaning">
-    <configuration name="Text_dataCleaning" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="spider_maoyan" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/requests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/requests/Text_dataCleaning.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="bilibili_littleDuck" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="spider_maoyan" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/requests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="J:\spider_projects\spider_maoyan\requests\others\bilibili_littleDuck.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="bullets_movies" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.demoCode">
+    <configuration name="bullets_movies" type="PythonConfigurationType" factoryName="Python">
       <module name="spider_maoyan" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -244,20 +285,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="data_cleaning" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="demoCode" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="spider_maoyan" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DISPLAY" value="localhost:11.0" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/requests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/security_codes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/requests/data_cleaning.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/security_codes/demoCode.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -266,7 +308,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="demoCookie" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="time_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="spider_maoyan" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -274,12 +316,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/requests/moni_sina" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/requestsDemo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/requests/moni_sina/demoCookie.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/requestsDemo/time_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -288,18 +330,97 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="urllib_request_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="spider_maoyan" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/urllib_deom" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/urllib_deom/urllib_request_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="youku_ bullet_screen" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="spider_maoyan" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/requestsDemo/bulletsScreen" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/requestsDemo/bulletsScreen/youku_ bullet_screen.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="youku_fenji_iid" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="spider_maoyan" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/requestsDemo/bulletsScreen" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/requestsDemo/bulletsScreen/youku_fenji_iid.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.bullets_movies" />
+      <item itemvalue="Python.demoCode" />
+      <item itemvalue="Python.time_demo" />
+      <item itemvalue="Python.urllib_request_demo" />
+      <item itemvalue="Python.youku_ bullet_screen" />
+      <item itemvalue="Python.youku_fenji_iid" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Text_dataCleaning" />
-        <item itemvalue="Python.data_cleaning" />
-        <item itemvalue="Python.bullets_movies" />
-        <item itemvalue="Python.bilibili_littleDuck" />
-        <item itemvalue="Python.demoCookie" />
+        <item itemvalue="Python.demoCode" />
+        <item itemvalue="Python.time_demo" />
+        <item itemvalue="Python.urllib_request_demo" />
+        <item itemvalue="Python.youku_ bullet_screen" />
+        <item itemvalue="Python.youku_fenji_iid" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="DEPLOYMENT_SERVER" />
+    <option name="myConnectionId" value="c555b79d-df8c-49c8-ad42-d6347de05caa" />
+  </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\11712\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -329,6 +450,17 @@
       <workItem from="1568012838012" duration="4114000" />
       <workItem from="1568019643550" duration="12543000" />
       <workItem from="1568197024289" duration="8869000" />
+      <workItem from="1568366702480" duration="161000" />
+      <workItem from="1568367586789" duration="545000" />
+      <workItem from="1568368247718" duration="1950000" />
+      <workItem from="1568424184327" duration="2741000" />
+      <workItem from="1568511629540" duration="7614000" />
+      <workItem from="1568523219055" duration="3217000" />
+      <workItem from="1568529283473" duration="608000" />
+      <workItem from="1568529923318" duration="2732000" />
+      <workItem from="1568532692798" duration="705000" />
+      <workItem from="1568533427944" duration="2523000" />
+      <workItem from="1568544269969" duration="5607000" />
     </task>
     <task id="LOCAL-00001" summary="关于pycharm查找文件库的顺序：&#10;   （1）程序主目录（2）系统环境变量定义的路径(3)标准库目录。">
       <created>1566901444693</created>
@@ -397,7 +529,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103192000" />
+    <option name="totallyTimeSpent" value="131595000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -411,28 +543,29 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12684564" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49892008" visible="true" weight="0.14697987" />
+      <window_info id="Structure" order="1" sideWeight="0.5010571" side_tool="true" weight="0.14697987" />
+      <window_info id="Favorites" order="2" sideWeight="0.5021552" side_tool="true" weight="0.14697987" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49893278" weight="0.18803419" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5144077" visible="true" weight="0.20512821" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5060403" weight="0.491453" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39978212" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32897604" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32763532" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4994664" weight="0.32763532" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010672" side_tool="true" weight="0.15242165" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32763532" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32897604" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.49395972" side_tool="true" weight="0.41880342" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.6125356" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32763532" />
       <window_info anchor="bottom" id="Messages" order="13" />
+      <window_info anchor="bottom" id="File Transfer" order="14" weight="0.41880342" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.85302013" />
-      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" auto_hide="true" id="SciView" order="3" show_stripe_button="false" type="FLOATING" weight="0.842953" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3295302" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -449,23 +582,30 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/spider_maoyan$data_cleaning.coverage" NAME="data_cleaning Coverage Results" MODIFIED="1568203533527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
-    <SUITE FILE_PATH="coverage/spider_maoyan$demo.coverage" NAME="demo Coverage Results" MODIFIED="1567044800150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
-    <SUITE FILE_PATH="coverage/spider_maoyan$JD_Wawa.coverage" NAME="JD_Wawa Coverage Results" MODIFIED="1566962802032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
     <SUITE FILE_PATH="coverage/spider_maoyan$word_demo.coverage" NAME="word_demo Coverage Results" MODIFIED="1567047282447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
-    <SUITE FILE_PATH="coverage/spider_maoyan$JD_wawa.coverage" NAME="JD_wawa Coverage Results" MODIFIED="1567871763947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
+    <SUITE FILE_PATH="coverage/spider_projects$youku_fenji_iid.coverage" NAME="youku_fenji_iid Coverage Results" MODIFIED="1568391815751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requestsDemo/bulletsScreen" />
     <SUITE FILE_PATH="coverage/spider_maoyan$bullets_movies.coverage" NAME="bullets_movies Coverage Results" MODIFIED="1568084459266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests/spider_douban" />
     <SUITE FILE_PATH="coverage/spider_maoyan$youku_fenji_iid.coverage" NAME="youku_fenji_iid Coverage Results" MODIFIED="1567934089456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests/bulletsScreen" />
-    <SUITE FILE_PATH="coverage/spider_maoyan$maoyan_movies.coverage" NAME="maoyan_movies Coverage Results" MODIFIED="1566962597090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
-    <SUITE FILE_PATH="coverage/spider_maoyan$bilibili_littleDuck.coverage" NAME="bilibili_littleDuck Coverage Results" MODIFIED="1568081688335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
+    <SUITE FILE_PATH="coverage/spider_projects$bilibili_littleDuck.coverage" NAME="bilibili_littleDuck Coverage Results" MODIFIED="1568368449372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requestsDemo/others" />
     <SUITE FILE_PATH="coverage/spider_maoyan$urllib_request_demo.coverage" NAME="urllib_request_demo Coverage Results" MODIFIED="1566989120586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllib_deom" />
     <SUITE FILE_PATH="coverage/spider_maoyan$spdier_python__1_.coverage" NAME="spdier_python (1) Coverage Results" MODIFIED="1566901029588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllib_deomo" />
-    <SUITE FILE_PATH="coverage/spider_maoyan$time_demo.coverage" NAME="time_demo Coverage Results" MODIFIED="1567918299256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
     <SUITE FILE_PATH="coverage/spider_maoyan$spdier_python.coverage" NAME="spdier_python Coverage Results" MODIFIED="1566900773081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllib" />
     <SUITE FILE_PATH="coverage/spider_maoyan$youku__bullet_screen.coverage" NAME="youku_ bullet_screen Coverage Results" MODIFIED="1567918535858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
+    <SUITE FILE_PATH="coverage/spider_projects$time_demo.coverage" NAME="time_demo Coverage Results" MODIFIED="1568543026543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requestsDemo" />
+    <SUITE FILE_PATH="coverage/spider_projects$demoCode.coverage" NAME="demoCode Coverage Results" MODIFIED="1568797177465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/security_codes" />
+    <SUITE FILE_PATH="coverage/spider_maoyan$forDemo.coverage" NAME="forDemo Coverage Results" MODIFIED="1568004909189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests/bulletsScreen" />
+    <SUITE FILE_PATH="coverage/spider_maoyan$demo.coverage" NAME="demo Coverage Results" MODIFIED="1567044800150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
+    <SUITE FILE_PATH="coverage/spider_projects$youku__bullet_screen.coverage" NAME="youku_ bullet_screen Coverage Results" MODIFIED="1568391938008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requestsDemo/bulletsScreen" />
+    <SUITE FILE_PATH="coverage/spider_maoyan$JD_Wawa.coverage" NAME="JD_Wawa Coverage Results" MODIFIED="1566962802032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
+    <SUITE FILE_PATH="coverage/spider_maoyan$JD_wawa.coverage" NAME="JD_wawa Coverage Results" MODIFIED="1567871763947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
+    <SUITE FILE_PATH="coverage/spider_projects$bilibili_littleDuck__1_.coverage" NAME="bilibili_littleDuck (1) Coverage Results" MODIFIED="1568368309204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests/others" />
+    <SUITE FILE_PATH="coverage/spider_maoyan$maoyan_movies.coverage" NAME="maoyan_movies Coverage Results" MODIFIED="1566962597090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
+    <SUITE FILE_PATH="coverage/spider_projects$urllib_request_demo.coverage" NAME="urllib_request_demo Coverage Results" MODIFIED="1568427657469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllib_deom" />
+    <SUITE FILE_PATH="coverage/spider_maoyan$bilibili_littleDuck.coverage" NAME="bilibili_littleDuck Coverage Results" MODIFIED="1568081688335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
+    <SUITE FILE_PATH="coverage/spider_maoyan$time_demo.coverage" NAME="time_demo Coverage Results" MODIFIED="1567918299256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
     <SUITE FILE_PATH="coverage/spider_maoyan$demoCookie.coverage" NAME="demoCookie Coverage Results" MODIFIED="1568016478940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests/moni_sina" />
     <SUITE FILE_PATH="coverage/spider_maoyan$JD_comments_spider.coverage" NAME="JD_comments_spider Coverage Results" MODIFIED="1567929731178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
     <SUITE FILE_PATH="coverage/spider_maoyan$spdier_demo.coverage" NAME="spdier_demo Coverage Results" MODIFIED="1566901206516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/urllib_deomo" />
-    <SUITE FILE_PATH="coverage/spider_maoyan$forDemo.coverage" NAME="forDemo Coverage Results" MODIFIED="1568004909189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests/bulletsScreen" />
     <SUITE FILE_PATH="coverage/spider_maoyan$youku__bullet_screen__1_.coverage" NAME="youku_ bullet_screen (1) Coverage Results" MODIFIED="1568007595468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests/bulletsScreen" />
     <SUITE FILE_PATH="coverage/spider_maoyan$Text_dataCleaning.coverage" NAME="Text_dataCleaning Coverage Results" MODIFIED="1568205442947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
   </component>
@@ -496,16 +636,6 @@
     <entry file="file://$PROJECT_DIR$/requests/word_demo.py" />
     <entry file="file://$PROJECT_DIR$/requests/wawa_comments" />
     <entry file="file://$PROJECT_DIR$/requests/comments" />
-    <entry file="file://$PROJECT_DIR$/requests/match.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/urllib_deom/spdier_demo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1656">
@@ -516,18 +646,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/urllib_deom/urllib_request_demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="39">
-          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/requests/wawa_result.jpg" />
-    <entry file="file://$PROJECT_DIR$/requests/JD_comments/JD_wawa.py">
+    <entry file="file://$PROJECT_DIR$/requestsDemo/JD_comments/JD_wawa.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2376">
           <caret line="72" column="3" selection-start-line="72" selection-start-column="3" selection-end-line="73" selection-end-column="36" />
@@ -537,84 +657,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requests/bulletsScreen/youku_fenji_iid.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="55" column="16" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
-          <folding>
-            <element signature="e#13#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requests/bulletsScreen/forDemo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requests/bulletsScreen/Iid.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requests/moni_sina/demoCookie.py">
+    <entry file="file://$PROJECT_DIR$/requests/bulletsScreen/Iid.txt" />
+    <entry file="file://$PROJECT_DIR$/requestsDemo/moni_sina/demoCookie.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="33">
           <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requests/others/maoyan_movies.py">
+    <entry file="file://$PROJECT_DIR$/requestsDemo/bulletsScreen/forDemo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="18" selection-end-column="37" />
+        <state relative-caret-position="165">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requestsDemo/others/maoyan_movies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
           <folding>
             <element signature="e#0#16#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requests/others/bilibili_littleDuck.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="22" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requests/bulletsScreen/youku_ bullet_screen.py">
+    <entry file="file://$PROJECT_DIR$/requestsDemo/match.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
-          <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requests/JD_comments/JD_comments_spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="54" column="2" lean-forward="true" selection-start-line="54" selection-start-column="2" selection-end-line="55" selection-end-column="95" />
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requests/time_demo.py">
+    <entry file="file://$PROJECT_DIR$/requestsDemo/Text_dataCleaning.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="33">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requests/spider_douban/bullets_movies.py">
+    <entry file="file://$PROJECT_DIR$/requestsDemo/spider_douban/bullets_movies.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
+        <state relative-caret-position="256">
           <caret line="81" column="6" selection-start-line="81" selection-start-column="4" selection-end-line="81" selection-end-column="6" />
           <folding>
             <element signature="e#0#16#0" expanded="true" />
@@ -622,23 +709,86 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requests/data_cleaning.py">
+    <entry file="file://$PROJECT_DIR$/requestsDemo/data_cleaning.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="98">
           <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
           <folding>
             <element signature="e#33#64#0" expanded="true" />
-            <element signature="e#870#884#0" />
-            <element signature="e#1410#1456#0" />
-            <element signature="e#1978#2007#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requests/Text_dataCleaning.py">
+    <entry file="file://$PROJECT_DIR$/requestsDemo/others/bilibili_littleDuck.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="231">
+          <caret line="7" column="96" lean-forward="true" selection-start-line="7" selection-start-column="96" selection-end-line="7" selection-end-column="96" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requestsDemo/bulletsScreen/youku_fenji_iid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="20" />
+          <folding>
+            <element signature="e#13#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/urllib_deom/urllib_request_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="58" column="19" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requestsDemo/bulletsScreen/youku_ bullet_screen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/security_codes/images/code.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requestsDemo/time_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/security_codes/images/Code.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/security_codes/images/image.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/security_codes/images/code3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requestsDemo/JD_comments/JD_comments_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-726">
+          <caret line="14" column="64" selection-start-line="14" selection-start-column="64" selection-end-line="14" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/security_codes/demoCode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <element signature="e#32#53#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

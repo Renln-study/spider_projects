@@ -1,4 +1,4 @@
-import  requests
+import  requestsDemo
 import re
 import  json
 import time
@@ -7,7 +7,7 @@ def get_one_page(url):
 	headers = {
 		'User - Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36'
 	}
-	response = requests.get(url,headers=headers)
+	response = requestsDemo.get(url, headers=headers)
 	if response.status_code == 200:
 		return  response.text
 	return  None

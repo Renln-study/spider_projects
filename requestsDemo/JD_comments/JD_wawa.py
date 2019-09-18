@@ -1,4 +1,4 @@
-import requests
+import requestsDemo
 import  time
 import  json
 import  os
@@ -20,7 +20,7 @@ def get_one_page(page):
     }
     url = 'https://sclub.jd.com/comment/productPageComments.action?callback=fetchJSON_' \
           'comment98vv6687&productId=1263013576&score=0&sortType=5&page=%s&pageSize=10&isShadowSku=0&fold=1' % page
-    response = requests.get(url, headers=headers)
+    response = requestsDemo.get(url, headers=headers)
     if response.status_code == 200:
         data_text = response.text
         data = data_text[26:-2]

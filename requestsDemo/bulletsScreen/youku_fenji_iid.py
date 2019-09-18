@@ -1,5 +1,5 @@
 # coding=gbk
-import requests
+import requestsDemo
 import json
 
 inputFile = 'Iid.txt'
@@ -11,7 +11,7 @@ def getIid(url):
         'Sec-Fetch-Mode':'no-cors',
         'Cookie': 'u_l_v_t=616; P_F=1; P_T=1567937585; __ysuid=1566796699843X5I; __ayft=1567930312375; __aysid=15679303123760qP; __arpvid=1567930312376ZDYNIj-1567930312400; __arycid=dz-3-00; __ayscnt=1; __arcms=dz-3-00; __aypstp=1; __ayspstp=1; UM_distinctid=16d0fede7604e2-01772288062ce8-5373e62-144000-16d0fede7613f1; CNZZDATA1277955961=2072425608-1567927728-https%253A%252F%252Fso.youku.com%252F%7C1567927728; cna=70zqFe4+FTwCAYz6wDhhwVxS; _m_h5_tk=d7eda27e958fe7b7801e6f92a343a264_1567934271532; _m_h5_tk_enc=44c20fd783c6c1461aa789f4f3da49fb; juid=01dk7urrcl1qhg; seid=01dk7urrco1ao9; referhost=https%3A%2F%2Fso.youku.com; seidtimeout=1567932114139; ypvid=15679303191618mVgEf; yseid=1567930319162nAeMyh; ysestep=1; yseidcount=1; yseidtimeout=1567937519164; ycid=0; ystep=1; isg=BNfX-dm9RlrNbMLWe623oHfLZkshHKt-ppRqfikHb6YsWPSaNO1gzF0yurhjsIP2; __ayvstp=19; __aysvstp=309'
     }
-    response = requests.get(url, headers=headers)
+    response = requestsDemo.get(url, headers=headers)
     print(response)
     if response.status_code == 200:
         return response.text
@@ -34,6 +34,7 @@ def JsonIid(html):
 
 
 def write_line(bullet):
+    print("write")
     with open('%s' % 'Iid.txt','a',encoding='utf-8') as f:
         f.write(bullet+'\n')
 

@@ -1,4 +1,4 @@
-import  requests
+import  requestsDemo
 import traceback
 import re
 import  time
@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 import  jieba
 
 """生成session保存cookie"""
-s = requests.Session()
+s = requestsDemo.Session()
 
 nowTime = time.strftime('%m%d',time.localtime(time.time()))
 
