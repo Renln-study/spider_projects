@@ -1,4 +1,4 @@
-import requestsDemo
+import requests
 import  time
 import  json
 import  os
@@ -20,7 +20,7 @@ def get_one_page(page):
     }
     url = 'https://sclub.jd.com/comment/productPageComments.action?callback=fetchJSON_' \
           'comment98vv6687&productId=1263013576&score=0&sortType=5&page=%s&pageSize=10&isShadowSku=0&fold=1' % page
-    response = requestsDemo.get(url, headers=headers)
+    response = requests.get(url, headers=headers)
     if response.status_code == 200:
         data_text = response.text
         data = data_text[26:-2]
@@ -72,7 +72,7 @@ def main():
     # 写入数据前先清空之前的数据
     if os.path.exists(COMMENT_FILE_PATH):
         os.remove(COMMENT_FILE_PATH)
-    for i in range(20):
+    for i in range(5):
         statu_code = get_one_page(i)
         print("当前是第"+str(i)+"页，当前页操作响应："+statu_code)
         # 模拟用户浏览，设置一个爬虫间隔，防止ip被封
